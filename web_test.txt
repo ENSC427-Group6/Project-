@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENSC427 E100 Communication Networks</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center; /* Center align content */
+        }
+        h1 {
+            color: #333;
+            font-size: 24px;
+        }
+        h2 {
+            color: #666;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        p {
+            color: #444;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .contact-info {
+            margin-top: 20px;
+            font-size: 16px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>ENSC427 E100 Communication Networks</h1>
+    <h2>Project Proposal: Analysis of Network Traffic Anomalies Using Machine Learning</h2>
+    <p><strong>Team6</strong></p>
+    <p><strong>Feb.25th, 2024</strong></p>
+    <div class="contact-info">
+        <p>Georgiy Belyaev: <a href="mailto:gbelyaev@sfu.ca">gbelyaev@sfu.ca</a></p>
+        <p>Hans Samera: <a href="mailto:hsamera@sfu.ca">hsamera@sfu.ca</a></p>
+        <p>Eldon Chan: <a href="mailto:cca284@sfu.ca">cca284@sfu.ca</a></p>
+    </div>
+    <h2>Abstract</h2>
+    <p>In an era of escalating cyber threats and rapidly evolving network landscapes, the demand for robust anomaly detection mechanisms within communication networks has intensified. This project delves into the analysis of network traffic anomalies utilizing machine learning algorithms, with a focused exploration on local area network (LAN) traffic, web traffic, and email traffic within SFU network infrastructure.</p>
+    <p>The project aims to implement a scalable framework for collecting and preprocessing network traffic data, leveraging packet capture tools and network monitoring software. Subsequently, a comprehensive evaluation of machine learning algorithms, including Random Forest and Support Vector Machines (SVM), will be conducted to ascertain their efficacy in detecting anomalous patterns within the targeted traffic sources. The project seeks to enhance SFU's network security posture through proactive identification and mitigation of potential threats, thereby contributing to the advancement of network security practices in educational institutions and beyond.</p>
+    <h2>Reference</h2>
+    <p>A. Lakhina, M. Crovella, and C. Diot, "Mining Anomalies Using Traffic Feature Distributions," in Proceedings of the ACM SIGCOMM Internet Measurement Conference (IMC), 2004.</p>
+    <p>J. Zhang, Y. Liu, J. Wang, and C. Chen, "Deep Learning for Network Anomaly Detection: A Survey," in IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 11, pp. 4550-4563, Nov. 2018.</p>
+    <img src="https://unsplash.com/photos/aerial-photography-of-interlocking-freeways-with-travelling-cars-xcrI6CPkkJs" alt="Placeholder Image 1">
+    <img src="https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ" alt="Placeholder Image 2">
+</body>
+</html>
